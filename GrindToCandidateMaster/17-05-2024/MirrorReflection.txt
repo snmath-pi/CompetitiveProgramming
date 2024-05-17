@@ -1,0 +1,1 @@
+This problem has a very well known trick check later if time permits (trick is about mirroring mirros / cells of grid to simulate ray / ball travelling in the grid)
